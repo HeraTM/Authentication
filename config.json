@@ -1,0 +1,24 @@
+{
+    "Login": {
+        "Token": "ODA0NzE5OTE3MzczOTgwNzEz.YCv4yQ.CgRwvzAhsDgrrjjrUeoux-fwxxY"
+    },
+
+    "Config": {
+        "Prefix": "xx",
+        "EmbedTimer": "10000",
+        "StreamingURL": "https://twitch.tv/monstercat"
+    },
+    
+    "Sniping":{
+        "GiveawayJoiner": "true"
+    },
+    "Webhooks": {
+        "SniperWebhook": "",
+        "GiveawaySniperWebhook": "https://discord.com/api/webhooks/811048776142946305/x7c-jxvCH37dTWg5IBsi3m-CDo8VnrZ3PYGn_n8_OBTp2MrahHUKrbKTmhQMjIpsHw1d"
+    },
+
+    "Webhooksettings": {
+        "SniperWebhookLogging": "false",
+        "GiveawaySniperWebhookLogging": "true"
+      }
+}
